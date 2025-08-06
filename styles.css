@@ -9,6 +9,10 @@ body {
     height: 400px;
 }
 
+h1{
+    text-align: center;
+}
+
 .link-button {
     text-decoration: none;
     color: black;
